@@ -4,7 +4,6 @@ import like from '../../static/like.svg';
 import bed from '../../static/bed.svg';
 import bathroom from '../../static/bathroom.svg';
 import sqarea from '../../static/sqarea.svg';
-import { NumericFormat } from 'react-number-format';
 
 
 const PropertyCard = ({ele}) => {
