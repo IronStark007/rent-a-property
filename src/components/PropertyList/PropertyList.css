@@ -1,0 +1,21 @@
+.property-list {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin: 30px 70px;
+    gap:25px;
+}
+
+
+@media screen and (max-width:1010px) {
+    .property-list {
+        grid-template-columns: auto auto;
+        margin: 15px 40px;
+    }
+}
+
+@media screen and (max-width:538px) {
+    .property-list {
+        grid-template-columns: auto;
+        margin: 10px 20px;
+    }
+}

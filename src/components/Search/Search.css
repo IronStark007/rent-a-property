@@ -1,0 +1,35 @@
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:30px 70px;
+    margin-bottom: 0px;
+}
+
+.search-title {
+    width: 50%;
+}
+
+.search-dropdown {
+    padding: 8px 20px;
+    background: none;
+    border: 1px solid var(--purple);
+    border-radius: 5px;
+    color: var(--purple);
+}
+
+
+
+@media screen and (max-width:910px) {
+    .search {
+        margin: 5px 10px;
+    }
+
+    .search-title {
+        font-size: 20px;
+    }
+
+    .search-dropdown {
+        padding: 4px 10px;
+    }
+}

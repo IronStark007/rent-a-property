@@ -1,0 +1,200 @@
+[
+    {
+        "id":1,
+        "title": "Palm Harbor",
+        "image": "https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2095,
+        "popular":true,
+        "address": "2699 Green Valley, Highland Lake, FL",
+        "beds": 3,
+        "bathrooms":2,
+        "area":"5x7 m2"
+    },
+    {
+        "id":2,
+        "title": "Beverly Springfield",
+        "image": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2700,
+        "popular":true,
+        "address": "2821 Lake Sevilla, Palm Harbor, TX",
+        "beds": 4,
+        "bathrooms":2,
+        "area":"6x7.5 m2"
+    },
+    {
+        "id":3,
+        "title": "Faulkner Ave",
+        "image": "https://images.pexels.com/photos/221024/pexels-photo-221024.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 4055,
+        "popular":true,
+        "address": "909 Woodland St, Michigan, IN",
+        "beds": 4,
+        "bathrooms":3,
+        "area":"8x10 m2"
+    },
+    {
+        "id":4,
+        "title": "Palm Harbor",
+        "image": "https://images.pexels.com/photos/221024/pexels-photo-221024.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 995,
+        "popular":true,
+        "address": "2699 Green Valley, Highland Lake, FL",
+        "beds": 3,
+        "bathrooms":2,
+        "area":"5x7 m2"
+    },
+    {
+        "id":5,
+        "title": "Beverly Springfield",
+        "image": "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 700,
+        "popular":true,
+        "address": "2821 Lake Sevilla, Palm Harbor, TX",
+        "beds": 4,
+        "bathrooms":2,
+        "area":"6x7.5 m2"
+    },
+    {
+        "id":6,
+        "title": "Faulkner Ave",
+        "image": "https://images.pexels.com/photos/296109/pexels-photo-296109.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 455,
+        "popular":true,
+        "address": "909 Woodland St, Michigan, IN",
+        "beds": 4,
+        "bathrooms":3,
+        "area":"8x10 m2"
+    },
+    {
+        "id":7,
+        "title": "Cove Red",
+        "image": "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 4500,
+        "popular":true,
+        "address": "243 Curlew Road, Palm Harbor, TX",
+        "beds": 2,
+        "bathrooms":1,
+        "area":"5x7.5 m2"
+    },
+    {
+        "id":8,
+        "title": "Tarpon Bay",
+        "image": "https://images.pexels.com/photos/2134929/pexels-photo-2134929.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 4700,
+        "popular":true,
+        "address": "103 Lake Shores, Michigan, IN",
+        "beds": 3,
+        "bathrooms":1,
+        "area":"5x7 m2"
+    },
+    {
+        "id":9,
+        "title": "St. Crystal",
+        "image": "https://images.pexels.com/photos/276593/pexels-photo-276593.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2400,
+        "popular":false,
+        "address": "210 US Highway, Highland Lake, FL",
+        "beds": 4,
+        "bathrooms":2,
+        "area":"6x8 m2"
+    },
+    {
+        "id":10,
+        "title": "Cove Red",
+        "image": "https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 1500,
+        "popular":false,
+        "address": "243 Curlew Road, Palm Harbor, TX",
+        "beds": 2,
+        "bathrooms":1,
+        "area":"5x7.5 m2"
+    },
+    {
+        "id":11,
+        "title": "Tarpon Bay",
+        "image": "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": "$1,700",
+        "popular":false,
+        "address": "103 Lake Shores, Michigan, IN",
+        "beds": 3,
+        "bathrooms":1,
+        "area":"5x7 m2"
+    },
+    {
+        "id":12,
+        "title": "St. Crystal",
+        "image": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2400,
+        "popular":false,
+        "address": "210 US Highway, Highland Lake, FL",
+        "beds": 4,
+        "bathrooms":2,
+        "area":"6x8 m2"
+    },
+    {
+        "id":13,
+        "title": "Cove Red",
+        "image": "https://images.pexels.com/photos/323775/pexels-photo-323775.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 1500,
+        "popular":false,
+        "address": "243 Curlew Road, Palm Harbor, TX",
+        "beds": 2,
+        "bathrooms":1,
+        "area":"5x7.5 m2"
+    },
+    {
+        "id":14,
+        "title": "The Old Steele",
+        "image": "https://images.pexels.com/photos/53610/large-home-residential-house-architecture-53610.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 1700,
+        "popular":false,
+        "address": "103 Lake Shores, Michigan, IN",
+        "beds": 3,
+        "bathrooms":1,
+        "area":"5x7 m2"
+    },
+    {
+        "id":15,
+        "title": "St. Crystal",
+        "image": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 400,
+        "popular":false,
+        "address": "210 US Highway, Highland Lake, FL",
+        "beds": 4,
+        "bathrooms":2,
+        "area":"6x8 m2"
+    },
+    {
+        "id":16,
+        "title": "St. Crystal",
+        "image": "https://images.pexels.com/photos/2183521/pexels-photo-2183521.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 3400,
+        "popular":false,
+        "address": "210 US Highway, Highland Lake, FL",
+        "beds": 4,
+        "bathrooms":2,
+        "area":"6x8 m2"
+    },
+    {
+        "id":17,
+        "title": "Cove Red",
+        "image": "https://images.pexels.com/photos/415687/pexels-photo-415687.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 4500,
+        "popular":false,
+        "address": "243 Curlew Road, Palm Harbor, TX",
+        "beds": 2,
+        "bathrooms":1,
+        "area":"5x7.5 m2"
+    },
+    {
+        "id":18,
+        "title": "The Old Steele",
+        "image": "https://images.pexels.com/photos/1797393/pexels-photo-1797393.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 3700,
+        "popular":false,
+        "address": "103 Lake Shores, Michigan, IN",
+        "beds": 3,
+        "bathrooms":1,
+        "area":"5x7 m2"
+    }
+]
